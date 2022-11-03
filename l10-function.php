@@ -21,5 +21,5 @@
 
     $myFunc = fn($msg) => $msg;
 
-    echo $myFunc("Alhadulillah");
+    echo $myFunc("Alhamdulillah");
 ?>
